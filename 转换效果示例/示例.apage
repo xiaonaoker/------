@@ -1,0 +1,539 @@
+{
+  "name": "示例",
+  "children": [
+    {
+      "id": "1720770865083_1",
+      "type": "container",
+      "component": "group",
+      "data": {
+        "label": "输入",
+        "accompany": "",
+        "custom": "",
+        "level": "medium",
+        "padding": 0,
+        "margin": 0,
+        "width": "100%",
+        "align": "left",
+        "titleColor": "#000000"
+      },
+      "rules": {},
+      "children": [
+        {
+          "id": "1720770880492_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "关联活期账户",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "text",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        },
+        {
+          "id": "1720770882624_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "客户号",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "text",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        },
+        {
+          "id": "1720770882271_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "状态",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "currency",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        },
+        {
+          "id": "1720770882077_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "类别",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "text",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        }
+      ]
+    },
+    {
+      "id": "1720770902943_1",
+      "type": "container",
+      "component": "row",
+      "data": {
+        "label": "行",
+        "width": "100%",
+        "custom": ""
+      },
+      "rules": {},
+      "children": [
+        {
+          "id": "1720770902943_2",
+          "type": "container",
+          "component": "col",
+          "data": {
+            "label": "列",
+            "width": "50%",
+            "align": "right",
+            "custom": ""
+          },
+          "rules": {},
+          "children": [
+            {
+              "id": "1720770899078_1",
+              "type": "widget",
+              "component": "button",
+              "data": {
+                "label": "查询",
+                "type": "primary",
+                "accompany": "",
+                "custom": "",
+                "size": "normal",
+                "padding": 0,
+                "margin": 0
+              },
+              "rules": {}
+            }
+          ]
+        },
+        {
+          "id": "1720770902943_3",
+          "type": "container",
+          "component": "col",
+          "data": {
+            "label": "列",
+            "width": "50%",
+            "align": "left",
+            "custom": ""
+          },
+          "rules": {},
+          "children": [
+            {
+              "id": "1720770897552_1",
+              "type": "widget",
+              "component": "button",
+              "data": {
+                "label": "取消",
+                "type": "text",
+                "accompany": "",
+                "custom": "",
+                "size": "normal",
+                "padding": 0,
+                "margin": 0
+              },
+              "rules": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1720770865975_1",
+      "type": "container",
+      "component": "group",
+      "data": {
+        "label": "输出",
+        "accompany": "",
+        "custom": "",
+        "level": "medium",
+        "padding": 0,
+        "margin": 0,
+        "width": "100%",
+        "align": "left",
+        "titleColor": "#000000"
+      },
+      "rules": {},
+      "children": [
+        {
+          "id": "1720770894281_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "笔数",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "text",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        },
+        {
+          "id": "1720770914140_1",
+          "type": "widget",
+          "component": "input",
+          "data": {
+            "label": "总金额",
+            "modelData": "",
+            "inputLimit": "",
+            "showLabel": true,
+            "labelAlign": "right",
+            "row": 1,
+            "placeholder": "",
+            "min": 0,
+            "max": 0,
+            "contentType": "currency",
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "50%",
+            "appendButton": false,
+            "appendButtonLabel": "",
+            "appendSelect": false,
+            "appendSelectOptions": []
+          },
+          "rules": {}
+        },
+        {
+          "id": "1720770920005_1",
+          "type": "container",
+          "component": "table",
+          "data": {
+            "label": "表格",
+            "row": 6,
+            "accompany": "",
+            "custom": "",
+            "padding": 0,
+            "margin": 0,
+            "width": "100%",
+            "pagination": true
+          },
+          "rules": {},
+          "children": [
+            {
+              "id": "1720770920005_2",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "关联活期账户",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770972889_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "账号",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770973797_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "是否已打印标志",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770977746_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "开户金额",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770976790_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "累计利息",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770975935_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "账户余额",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770975169_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "开户日期",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770972084_1",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "上次计息日",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770920005_4",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "下次计息日",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770920005_3",
+              "type": "widget",
+              "component": "table-column",
+              "data": {
+                "label": "交易日期",
+                "titleAlign": "center",
+                "contentAlign": "left",
+                "modelData": "",
+                "inputLimit": "",
+                "childComponents": [],
+                "options": [],
+                "accompany": "",
+                "custom": ""
+              },
+              "rules": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1720770983739_1",
+      "type": "container",
+      "component": "row",
+      "data": {
+        "label": "行",
+        "width": "100%",
+        "custom": ""
+      },
+      "rules": {},
+      "children": [
+        {
+          "id": "1720770983739_2",
+          "type": "container",
+          "component": "col",
+          "data": {
+            "label": "列",
+            "width": "100%",
+            "align": "center",
+            "custom": ""
+          },
+          "rules": {},
+          "children": [
+            {
+              "id": "1720770983739_3",
+              "type": "widget",
+              "component": "button",
+              "data": {
+                "label": "按钮",
+                "type": "text",
+                "accompany": "",
+                "custom": "",
+                "size": "normal",
+                "padding": 0,
+                "margin": 0
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770995351_1",
+              "type": "widget",
+              "component": "button",
+              "data": {
+                "label": "按钮",
+                "type": "text",
+                "accompany": "",
+                "custom": "",
+                "size": "normal",
+                "padding": 0,
+                "margin": 0
+              },
+              "rules": {}
+            },
+            {
+              "id": "1720770983739_5",
+              "type": "widget",
+              "component": "button",
+              "data": {
+                "label": "按钮",
+                "type": "text",
+                "accompany": "",
+                "custom": "",
+                "size": "normal",
+                "padding": 0,
+                "margin": 0
+              },
+              "rules": {}
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rules": {},
+  "description": "",
+  "id": "1720770857786_1"
+}

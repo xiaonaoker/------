@@ -1,0 +1,289 @@
+{
+  "name": "布局",
+  "children": [
+    {
+      "id": "1720776886168_1",
+      "type": "widget",
+      "component": "select",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "abc",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": [],
+        "selectMode": "single",
+        "options": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776889801_1",
+      "type": "widget",
+      "component": "select",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "100%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": [
+          {
+            "label": "1"
+          },
+          {
+            "label": "2"
+          }
+        ],
+        "selectMode": "single",
+        "options": [
+          {
+            "label": "1"
+          },
+          {
+            "label": "2"
+          },
+          {
+            "label": "3"
+          }
+        ]
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776889644_1",
+      "type": "widget",
+      "component": "select",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "100%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": [],
+        "selectMode": "single",
+        "options": [
+          {
+            "label": "1"
+          },
+          {
+            "label": "2"
+          },
+          {
+            "label": "3"
+          }
+        ]
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776889498_1",
+      "type": "widget",
+      "component": "input",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776889342_1",
+      "type": "widget",
+      "component": "select",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": [],
+        "selectMode": "single",
+        "options": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776889156_1",
+      "type": "widget",
+      "component": "input",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776888997_1",
+      "type": "widget",
+      "component": "input",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776888170_1",
+      "type": "widget",
+      "component": "input",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "50%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": []
+      },
+      "rules": {}
+    },
+    {
+      "id": "1720776900515_1",
+      "type": "widget",
+      "component": "input",
+      "data": {
+        "label": "输入框",
+        "modelData": "",
+        "inputLimit": "",
+        "showLabel": true,
+        "labelAlign": "right",
+        "row": 1,
+        "placeholder": "",
+        "min": 0,
+        "max": 0,
+        "contentType": "text",
+        "accompany": "",
+        "custom": "",
+        "padding": 0,
+        "margin": 0,
+        "width": "100%",
+        "appendButton": false,
+        "appendButtonLabel": "",
+        "appendSelect": false,
+        "appendSelectOptions": []
+      },
+      "rules": {}
+    }
+  ],
+  "rules": {},
+  "description": "",
+  "id": "1720776884746_1",
+  "models": [
+    "操作用户信息"
+  ]
+}

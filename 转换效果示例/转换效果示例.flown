@@ -1,0 +1,35 @@
+{
+  "node": [
+    {
+      "id": 0,
+      "type": "start",
+      "name": "开始"
+    },
+    {
+      "id": -1,
+      "type": "end",
+      "name": "结束"
+    }
+  ],
+  "edge": [],
+  "style": [
+    {
+      "id": 0,
+      "geometry": {
+        "x": 100,
+        "y": 200,
+        "width": 50,
+        "height": 50
+      }
+    },
+    {
+      "id": -1,
+      "geometry": {
+        "x": 700,
+        "y": 200,
+        "width": 50,
+        "height": 50
+      }
+    }
+  ]
+}
